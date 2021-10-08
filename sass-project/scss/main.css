@@ -1,0 +1,8 @@
+.main_header {
+  background-color: #a53636;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+/*# sourceMappingURL=main.css.map */
